@@ -11,6 +11,9 @@
       "source": "/(.*)",
       "destination": "api/server.js"
     }
-  ]
+  ],
+ "regions": ["fra1"]
 }
+
+
 
